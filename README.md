@@ -1,10 +1,10 @@
 # Abdullah
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Profile Views" />
+  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" alt="Status" />
+  <img src="https://shields.io" alt="Focus" />
 </p>
 
 
