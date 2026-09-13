@@ -1,7 +1,10 @@
 # Abdullah
 
 <p align="center">
-  <img src="https://giphy.com" width="100%" height="200" style="object-fit: cover;" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 
